@@ -1,6 +1,8 @@
 html {
   font-family: 'Nunito', sans-serif;
-
+  background-image: url("https://cdn.glitch.global/077a5453-5696-405f-8bda-f147c7634f6c/thumbnails%2Fretina_wood.png?1663886779354");
+  background-repeat: repeat;
+  text-align: center;
 }
 
 .title {
@@ -9,8 +11,15 @@ html {
 
 .picrew {
   border-radius: 200px; 
+  box-shadow: 1px 4px 10px rgba(0, 0, 0, .5);
 }
 
 .projects {
-  background-color: grey;
+  margin: 0px auto; /* this centers a div */
+  padding: 10px;
+  border-radius: 50px; 
+  height: 300px;
+  width: 300px;
+  background-color: hsl(100, 0%, 80%);
+  box-shadow: 1px 4px 10px rgba(0, 0, 0, .5);
 }
