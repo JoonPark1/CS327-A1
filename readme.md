@@ -18,8 +18,18 @@ Build your own web page
 
 -- your answer here --
 
+# What is one new skill that you gained during this project?
+
+-- your answer here --
 
 # Glitch handles of people in class you got help from, and their help
 
 -- your answer here --
 
+# Assets you got from online and why you have permission to include them
+
+-- your answer here --
+
+# Online help, including ChatGPT 
+
+-- your answer here --
