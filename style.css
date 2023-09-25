@@ -62,6 +62,8 @@ html {
   text-decoration: underline;
 }
 
-.root {
-  background-color: darkgoldenrod;
+#root img {
+  background-color: lightcoral;
+  border-radius: solid 3px black; 
+  border-radius: 10px 10px 5px 5px 
 }
