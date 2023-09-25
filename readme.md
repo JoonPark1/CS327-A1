@@ -8,7 +8,7 @@ Build your own web page
 
 # Your glitch page url
 
--- your answer here, eg https://galaxykate-a1.glitch.me/ --
+https://eight-melon-cabbage.glitch.me/
 
 # Squad glitch page url
 
@@ -16,7 +16,7 @@ Build your own web page
 
 # Three adjectives that describe the feeling you want for your site
 
--- your answer here --
+Simple, Elegant, 
 
 # What is one new skill that you gained during this project?
 
