@@ -40,32 +40,3 @@ Squads that do great work together can gain a bit of extra credit at the Squad S
 **If you don't want to pursue any of the group points, join Solo squad.** You can easily get a B+ without it, but you'll waste the rarest and most expensive part of an NU education, which is making connections with future collaborators. In 2-5 years, most of your job opportunities will *come from other Northwesterners who remember you*.
 
 
-
-# Squad page
-**Requirements:**
-
-* Have the squad name and all glitch handles
-* Have a notice clearly visible on this squad page with whether or not it can be shared outside class.  
-	* be cool, don't broadcast work that doesn't want to be broadcast.
-* Have links to all 
-
-
-**Other nice features:**
-
-* get thumbnails of each work, or write promo copy
-* highlight the squad's favorite 3 
-* make a place for tutorials or Best-of guides 
-* automatically make links for each project instead of laying them out by hand
-	* get the Glitch handle of every squad member
-	* name your projects myHandle_a1, my_handle_a2...etc
-	* use Vue to make a section for each new assignment with the links computed automatically with a "v-for" directive, e.g.:
-
-```
-<div class="assignment_group" v-for="a_id in assignments">
-	<div class="assignment-link" v-for="handle in squadHandles">
-		<img>
-		<a :href="glitch.com/' + handle + '_' + a_id">{{handle}}'s {{a_id}}
-	</div>
-</div>
-```
-
