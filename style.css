@@ -27,3 +27,41 @@ html {
 .polaroid {
   border: 3px solid magenta;
 }
+
+/* my css rules */
+.h1 {
+  text-align: center; 
+  font-style: italic; 
+  font-weight: bold; 
+}
+
+.intro {
+  display: inline-block;
+  border: solid 3px black; 
+  border-radius: 3px;
+  background-color: lightgray;
+}
+
+.contact-info {
+  text-align: left; 
+  font-size: 30px;
+}
+
+.form {
+  margin-left: 500px;
+  margin-top:50px;
+  background-color: lightgreen;
+  border: 3px solid darkgreen; 
+  width: 500px;
+  height: 600px;
+}
+
+.form p {
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.root {
+  background-color: darkgoldenrod;
+}
